@@ -1,3 +1,8 @@
+# Author: Jon Houston (mobius31)
+# Project: Dreamweaver Remove Notes
+# Version: 0.1
+# URL: https://github.com/mobius31/dreamweaver-remove-notes/
+
 #!/usr/bin/env ruby 
 require 'find'
 require 'FileUtils'
